@@ -1,0 +1,13 @@
+[debug] > Exec(List(None), None, None)
+[error] Expected ID character
+[error] Not a valid command: List (similar: set, iflast, last)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected configuration ident
+[error] Expected '/'
+[error] Expected key
+[error] Not a valid key: List (similar: bgList, test, history)
+[error] List(None)
+[error]     ^
+[debug] > Exec(idea-shell, None, None)

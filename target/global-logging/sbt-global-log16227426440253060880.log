@@ -1,0 +1,8 @@
+[debug] > Exec(gnuplot, None, None)
+[error] Not a valid command: gnuplot
+[error] Not a valid project ID: gnuplot
+[error] Expected ':'
+[error] Not a valid key: gnuplot
+[error] gnuplot
+[error]        ^
+[debug] > Exec(idea-shell, None, None)

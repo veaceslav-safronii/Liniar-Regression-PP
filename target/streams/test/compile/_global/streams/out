@@ -1,0 +1,132 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:24:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:24:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$1$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:38:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:38:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$2$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:52:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m52 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:52:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m52 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$3$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:67:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m67 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:67:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m67 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$4$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:82:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m82 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:82:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m82 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$5$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:96:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m96 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:96:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m96 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m   |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |        Recursive [33mvalue[0m [35m$6$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:110:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m110 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:110:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m110 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Recursive [33mvalue[0m [35m$7$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:124:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m124 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:124:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m124 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Recursive [33mvalue[0m [35m$8$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:139:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m139 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:139:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m139 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Recursive [33mvalue[0m [35m$9$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:154:35 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m154 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |                        [31m^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |value regression is not a member of object Regression, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |The following import might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m    |  import munit.Clue.generate[0m
+[0m[[0m[31merror[0m] [0m[0m    |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E045] Cyclic Error: D:\Universitate\PP\t1_v2\src\test\scala\TestRegression.scala:154:8 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m154 |[0m        [33mval[0m (w, loss) = Regression.regression([0m
+[0m[[0m[31merror[0m] [0m[0m    |        [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |        Recursive [33mvalue[0m [35m$10$[0m needs type[0m
+[0m[[0m[31merror[0m] [0m[0m20 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m20 errors found[0m
